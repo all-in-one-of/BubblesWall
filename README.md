@@ -1,3 +1,5 @@
+# [https://github.com/all-in-one-of/BubblesWall/tree/master/Extras](https://github.com/all-in-one-of/BubblesWall/tree/master/Extras)
+
 The following plugins are removed to save bandwidth. They should be manually
 installed after cloning.
 
